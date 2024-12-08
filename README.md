@@ -59,7 +59,7 @@ This feature benefits both seekers and owners by ensuring competitive pricing wh
 
 ## Architecture
 
-![Architecture Diagram](https://github.com/Research-Project-Team/Research_BHBS/blob/Sahan/Architecture%20Diagram.jpg?raw=true)
+![Architecture Diagram](https://github.com/Research-Project-Team/Research_BHBS/blob/main/Architecture%20Diagram.jpg?raw=true)
 
 LodgeLink is built on **MERN** stack, offering a robust and adaptable platform for web applications. The backend handles data management, API endpoints, and core functionality, while the frontend delivers a user-friendly interface. Machine learning models are incorporated into the backend to analyze and process data, providing users with valuable insights.
 
